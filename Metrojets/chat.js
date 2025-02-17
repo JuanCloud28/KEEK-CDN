@@ -34,6 +34,7 @@ function openChatModal(playerIndexParam) {
 // Función para cerrar el modal
 function closeModal() {
     document.getElementById('chat-modal').style.display = 'none';
+    document.getElementById('question-display').value ='';
 }
 
 // Función para agregar mensajes a la ventana del chat
