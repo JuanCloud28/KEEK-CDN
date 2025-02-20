@@ -1,14 +1,21 @@
-import data from './players.json' assert { type: 'json' };
+fetch('./players.json')
+    .then(response => response.json())
+    .then(data => {
+        players = data.players;
+        console.log(data); // Array de objetos JSON
+    })
+    .catch(error => console.error('Error fetching JSON:', error));
+
 
 let currentIndex = 0; // Controla el par actual de la conversación
 let playerIndex = 0;
-let players = data.players;
+let players = {};
 
 function openChatModal(playerIndexParam) {
     // Inyecta o muestra el modal en el DOM
     document.getElementById('chat-modal').style.display = 'block';
     document.getElementById('send-button').disabled = false;
-    playerIndex=playerIndexParam;
+    playerIndex = playerIndexParam;
 
     // Reinicia la conversación y actualiza la pregunta, etc.
     currentIndex = 0;
@@ -27,7 +34,7 @@ function openChatModal(playerIndexParam) {
 // Función para cerrar el modal
 function closeModal() {
     document.getElementById('chat-modal').style.display = 'none';
-    document.getElementById('question-display').value ='';
+    document.getElementById('question-display').value = '';
 }
 
 // Función para agregar mensajes a la ventana del chat
