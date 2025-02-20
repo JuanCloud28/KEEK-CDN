@@ -1,15 +1,8 @@
-fetch('https://cdn.jsdelivr.net/gh/JuanCloud28/KEEK-CDN/Metrojets/players.json')
-  .then(response => response.json())
-  .then(data => {
-    players=data.players;
-    console.log(data); // Array de objetos JSON
-  })
-  .catch(error => console.error('Error fetching JSON:', error));
-
+import data from './players.json' assert { type: 'json' };
 
 let currentIndex = 0; // Controla el par actual de la conversación
 let playerIndex = 0;
-let players = {};
+let players = data.players;
 
 function openChatModal(playerIndexParam) {
     // Inyecta o muestra el modal en el DOM

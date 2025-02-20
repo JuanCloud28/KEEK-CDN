@@ -1,793 +1,1140 @@
 {
-    "players": [
-      {
-        "name": "Ash Turner",
-        "sponsor": "Nutrien Ag Solutions & ADLM Pty Ltd",
-        "instagram": "_ashlea_turner_ 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "Studying my diploma in tourism and travel 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GA 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "In the Tasmanian Netball League for the Kingston Blues Opens 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Erin Bell – I grew up watching her; she is a shorter, curly haired, long range goalie (like me) 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Shooting the winning buzzer beater in my 2022 U19 State League Grand final ⏱️"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Playing in a new competition, new stadium and being exposed to new players and coaches 🚀"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Traveling & watching my comfort shows over and over again... 🎬"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Sour worms or strawberries and cream from the party mix bag 🍓"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Gym, bookstore, kmart, parks and Nandos 📚"
-          }
-        ]
-      },
-      {
-        "name": "Chloe Britten",
-        "sponsor": "No sponsor needed",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Ella Sigley",
-        "sponsor": "Homewise Building Inspections",
-        "instagram": "ellasigley 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "Practice Manager at a physio clinic 🏥"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "WA, C, WD 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "I played for Oakdale in the 2024 season and previously in the WA Netball League 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Nat Von Bertouch 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Winning country netball in 2023 back in WA with my older sister 🎉"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "I’m excited to play with a new group of girls and expand my skills 🚀"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I enjoy travelling and spending time with Family and Friends 🌍"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "I like to try a pasta meal beforehand, otherwise a banana 🍝"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "My work, frankly bagels, rustic gourmet and the beach 🌴"
-          }
-        ]
-      },
-      {
-        "name": "Georgia Capetanakis",
-        "sponsor": "CMA Partners Chartered Accountants",
-        "instagram": "Georgia_cap 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Bachelor of Health and Medical Science ⚕️"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GS and GA 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "2024 🗓️"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "Breathe 😌"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Chloe Britten 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Cat Tuivaiti is a strong and smart athlete who I admire 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Getting the opportunity to step on the court for premier league ✨"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Building on what we started. Jets up 💙"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Coffee and Beach walks ☕️🌊"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "I make sure I have a big lunch on the day. And before the game, I have a muesli bar 🍽️"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Gym, Beach, Aldinga, Wohlers (work), Uni 🏋️‍♀️"
-          }
-        ]
-      },
-      {
-        "name": "Grace Humphries",
-        "sponsor": "RMA Packaging",
-        "instagram": "grace.humphriess 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "Studying Primary Teaching 🍎"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "Defence (GD,GK) 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "Eastern Eyre NC, Contax NC, Uraidla NC, Encounter Bay NC 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Sharni Layton inspired me when I was younger 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Moving from the country and being selected in the J1 team at Contax 🌟"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Skill development and making lifelong friends 🤝"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I love going to the beach, travelling and watching a good film 🎬"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "YoPro pouch 🥤"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Revo gym, yolk, coffee institute ☕️"
-          }
-        ]
-      },
-      {
-        "name": "Kasia Szymaniak",
-        "sponsor": "ADR Auto Electrics",
-        "instagram": "kasiaszymaniak_ 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "High school student 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GS and GA 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "Matrics 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Lucy Austin 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Playing in a Junior 1 Grand Final 🎉"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Making new connections, having fun and developing my skills 🤩"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Playing footy and watching the AFLW ⚽️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Chicken and sweet chilli bagel 🍗"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Physio, Goodlife, Woolworths, Cafes, Glenelg Beach 🏖️"
-          }
-        ]
-      },
-      {
-        "name": "Lara Mellow",
-        "sponsor": "No sponsor needed",
-        "instagram": "lara.mellow 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Student 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "WD/C/WA 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "Winter 2021 (I was 14) ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "To keep my head up both psychologically and physically 💪"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Lily Weckert 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "I admire dual sporting athletes like Ash Brazil 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "I don’t have many but a memorable moment was in 2020 when we were down at 3QT and came back to win by one ✨"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "I’m excited for meeting the new squad members and improving my game 🤩"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I play football, love to travel and go camping ⚽️🏕️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Usually a banana or apple 🍌🍎"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Drummond Driving Range (work), The Lakes (work), the grange, royal park goodlife, Henley and grange RSL 🏋️‍♀️"
-          }
-        ]
-      },
-      {
-        "name": "Lily Massey",
-        "sponsor": "Cornerstone Stud",
-        "instagram": "lilymasseyy_ 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Bachelor of Human Movement/Masters of Secondary Teaching 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "WA, WD, C 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "I joined Jets in Primary’s/2015 ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "No more long bombs 🚫"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Lily Weckert 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Kim Ravaillion has always inspired me 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Winning the Inter 1 Premiership by 1 point to Matrics after finishing 3rd on the ladder 🏆"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "I am excited to see what all the new faces can bring 🤩"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I enjoy going to the gym, beach and taking walks with friends 🏖️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "I will always eat pasta the night before and a banana right before the game 🍝"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Joes Kiosk, The Local Canteen, PEAQ, West Lakes Physio, Seamores 🍽️"
-          }
-        ]
-      },
-      {
-        "name": "Lily Weckert",
-        "sponsor": "Historian & Goolwa Sand and Surf",
-        "instagram": "Lilyweckert 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Nursing 🏥"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "C WA 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "15 years old ⏰"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Chloe Britten 😂"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "New team seeing how we bond together and play as a team! 🤝"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Love everything beach involved 🏖️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "I eat anything before a game 🍽️"
-          }
-        ]
-      },
-      {
-        "name": "Lily Zbierski",
-        "sponsor": "Massage Life",
-        "instagram": "Lily.zbierski_ 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "Baker/studying to be a pilates instructor 🍞"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GS, GA 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "Played for Garville 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "I also play basketball and Kobe Bryant I admire the most – I love his work ethic 🏀"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Probably scoring 42 out of 43 goals in a final 🎯"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Haven’t played netball for 5 years so just getting back into playing the sport 🔥"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Basketball & pilates 🤸‍♀️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Steak & eggs 🍳"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Beachside blends, Studio pilates, Semaphore nails, Derrimut gym, GYG 🏋️‍♀️"
-          }
-        ]
-      },
-      {
-        "name": "Mackenzie Rathjen",
-        "sponsor": "Deltapro",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Maddy Golding",
-        "sponsor": "Harcourts Adelaide Hills",
-        "instagram": "maddy_golding 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "I am going to be studying Nursing in my first year of uni (2025) 🏥"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GD, WD, GK 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "Oakdale NC 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Sharni Layton 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Winning my last premiership at SMAA with the girls I grew up playing with – full of fun and competitive spirit! 🏆"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "I am excited to get to know everyone 🤩"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I enjoy spending time with family and friends, cooking and baking 🍳"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Banana and a squeezy yoghurt 🍌"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "STRONG pilates (Somerton Park), Feed Glenelg (Cafe), Bespoke Facial and Body Clinic, Yo-chi Glenelg, Oakberry Acai 🏋️‍♀️"
-          }
-        ]
-      },
-      {
-        "name": "Madison Hughes",
-        "sponsor": "No sponsor needed",
-        "instagram": "madi.hhughes 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "I'm a Disability Support Worker and studying a Cert III in Individual Support this year 🤝"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GD/WD/C 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "Age 16, 2022 ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "Keep my feet on the ground when putting hands over and to not jump 👣"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Maeve 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Mum and Matilda Garrett 👩‍👧"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Playing school netball in year 10, which led me to choose netball over basketball 🎓"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "I'm excited to hopefully play more mid-court 🚀"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Anything crafty like sewing and crochet 🧵"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "I always eat a banana right before the start of a game 🍌"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Friends houses, Gym (Revo), North Adelaide Golf Course, Local park/oval, Beach 🏖️"
-          }
-        ]
-      },
-      {
-        "name": "Maeve Garnett",
-        "sponsor": "Rachel Hutton Design",
-        "instagram": "maeve.garnett 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "University Student 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GD, GK 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "16 years old ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "Stop playing nice 😈"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Lily Weckert 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Cathy Freeman 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Winning a premiership at my local club with some of my good friends! 🏆"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Pushing myself and getting to know the new squad members! 💪"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I enjoy being active, like going for walks and occasional runs 🚶‍♀️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Banana and honey crumpet 🍌"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Gym, Physio, Stirling hotel, Red cacao, Green Valley Café 🏋️‍♀️"
-          }
-        ]
-      },
-      {
-        "name": "Monet Lyle",
-        "sponsor": "Cornerstone Stud",
-        "instagram": "monetlyle_ 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Studying Bachelor of Primary School Teaching 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "C, WA 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "I was about 11 years old from memory ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "I can always hear Trudys voice from the sideline, yelling to continue through my drives! 📣"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Caitlin Ferguson 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "I was always inspired by Laura Langman 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Going away to Nationals to represent SA after Covid restrictions is still a highlight 🌟"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Being a part of a squad with many new faces and striving towards the same goals 🚀"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I love going to the beach and hanging out with family and friends 🌴"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Spaghetti Bolognese and/or Crumpets 🍝"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Peaq Conditioning (gym), Strong Pilates, Henley Beach 🏋️‍♀️"
-          }
-        ]
-      },
-      {
-        "name": "Monique Raidis",
-        "sponsor": "Merrett Logging",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Poppy Neilson",
-        "sponsor": "Wavelength International",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Rhianne Kaluza",
-        "sponsor": "No sponsor needed",
-        "instagram": "rhiannekaluza 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Registered Nurse 🩺"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "C, WD 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "8 years old ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "Normally a big no as I pass a long bomb 🚫"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Lily Weckert 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "My mum was a huge inspiration growing up but a sports person would be Nat VonBertouch 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "My 200th club game and playing my 50th PL game with my bestie Chloe (besides the part where I broke my foot) 💔"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "My return to netball 🌟"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "I love gym and camping 🏕️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "I like routine and I’m superstitious. Thursday night is pasta night, game day I have weetbix for breakfast and always a nani with peanut butter and an energy drink before the game 🍝"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Peaq is a second home of mine, also love Dunes cafe ☕️"
-          }
-        ]
-      },
-      {
-        "name": "Samantha Low",
-        "sponsor": "Flush Plumbing",
-        "instagram": "sammmilow 📸",
-        "questions": [
-          {
-            "question": "What is your occupation/study?",
-            "answer": "Teacher 🍎"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GA 🏐"
-          },
-          {
-            "question": "When did you join Jets? (How old were you or which year?)",
-            "answer": "2020 ⏰"
-          },
-          {
-            "question": "What do your coaches tell you?",
-            "answer": "Trust yourself 💖"
-          },
-          {
-            "question": "Who is your funniest team mate?",
-            "answer": "Rhianne 😂"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Maria Folau/ Kate Moloney 🏆"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Connecting with the squad, getting a few wins on the board 🏆"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Heading up the river for a wakeboard 🏄‍♀️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "Coffee and a light snack ☕️"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "Edessa, Flour Store, Coffee Factory, Drakes 🏠"
-          }
-        ]
-      },
-      {
-        "name": "Shelby Finlay",
-        "sponsor": "Price Attack",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Sophie Barker",
-        "sponsor": "No sponsor needed",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Taliya Kher",
-        "sponsor": "Flagstaff Hill Dental Care",
-        "instagram": "taliyakher 📸",
-        "questions": [
-          {
-            "question": "What is your occupation / study?",
-            "answer": "Just finished Hugh school and hopefully occupational therapy next year 🎓"
-          },
-          {
-            "question": "What position(s) do you play?",
-            "answer": "GD, GK 🏐"
-          },
-          {
-            "question": "Where have you been playing netball prior to joining Jets?",
-            "answer": "Contax 🏫"
-          },
-          {
-            "question": "Who inspired you as a player or what sports person you most admire?",
-            "answer": "Shamera Sterling 🏆"
-          },
-          {
-            "question": "Can you describe a memorable moment in your career or career highlight?",
-            "answer": "Playing with some of my best friends and winning our grand final in 2023 🎉"
-          },
-          {
-            "question": "What are you excited about for 2025?",
-            "answer": "Improving my defensive skills and making new connections at jets this year 💪"
-          },
-          {
-            "question": "Do you have any hobbies or interests outside of your sport?",
-            "answer": "Touch football ⚽️"
-          },
-          {
-            "question": "What do you eat before a game?",
-            "answer": "It changes each week, but I would love to eat açai bowls every week before the game 🥣"
-          },
-          {
-            "question": "Name the 5 places you frequent most often?",
-            "answer": "I LOVE YOCHI, sushi, catching up with friends for brunch, going to ah sai yee and going to the beach 🍣"
-          }
-        ]
-      },
-      {
-        "name": "Tayla Bevis",
-        "sponsor": "INTRO",
-        "instagram": null,
-        "questions": []
-      },
-      {
-        "name": "Tiarhn Carpenter",
-        "sponsor": "Konzag Grains Haulage",
-        "instagram": null,
-        "questions": []
-      }
-    ]
-  }
-  
+  "players": [
+    {
+      "name": "Ash Turner",
+      "sponsor": "Nutrien Ag Solutions & ADLM Pty Ltd",
+      "instagram": "_ashlea_turner_ 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "Studying my diploma in tourism and travel 🎓✈"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GA 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "In the Tasmanian Netball League for the Kingston Blues Opens 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Erin Bell – I grew up watching her; she is a shorter, curly haired, long range goalie (like me) 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Shooting the winning buzzer beater in my 2022 U19 State League Grand final ⏱️"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Playing in a new competition, new stadium and being exposed to new players and coaches 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Traveling & watching my comfort shows over and over again... 🎬"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Sour worms or strawberries and cream from the party mix bag 🍓"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Gym, bookstore, kmart, parks and Nandos 📚"
+        }
+      ]
+    },
+    {
+      "name": "Chloe Britten",
+      "sponsor": "No sponsor needed",
+      "instagram": "Chloebritten7 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Childcare educator 🏫"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GD, GK 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "I started playing for Jets when I was 16 filling in for inters 💙"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Be the voice on the court, stick to my player and work together 🎤"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Lily Weckert - honestly I think she’s just a little dumb but gives me a good laugh 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "My mum will always inspire me as a player and will always be the person I go home for advice after a game ❤️"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Going to South Africa and winning 2 gold medals for Australia indoor netball 🥇🥇"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Building strong relationships on and off the court with the girls 🤝"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I’m a marching girl - I have marched since I was a toddler and have competed in many titles including the latest performance in Canada 🎺"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Banana with peanut butter 🍌🥜"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Work, Coffee Trough, Goodlife, The Woody ☕️"
+        }
+      ]
+    },
+    {
+      "name": "Ella Sigley",
+      "sponsor": "Homewise Building Inspections",
+      "instagram": "ellasigley 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "Practice Manager at a physio clinic 🏥"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "WA, C, WD 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "I played for Oakdale in the 2024 season and previously in the WA Netball League 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Nat Von Bertouch 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning country netball in 2023 back in WA with my older sister 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "I’m excited to play with a new group of girls and expand my skills 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I enjoy travelling and spending time with Family and Friends 🌍"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I like to try a pasta meal beforehand, otherwise a banana 🍝"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "My work, frankly bagels, rustic gourmet and the beach 🌴"
+        }
+      ]
+    },
+    {
+      "name": "Georgia Capetanakis",
+      "sponsor": "CMA Partners Chartered Accountants",
+      "instagram": "Georgia_cap 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Bachelor of Health and Medical Science ⚕️"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GS and GA 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "2024 🗓️"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Breathe 😌"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Chloe Britten 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Cat Tuivaiti is a strong and smart athlete who I admire 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Getting the opportunity to step on the court for premier league ✨"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Building on what we started. Jets up 💙"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Coffee and Beach walks ☕️🌊"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I make sure I have a big lunch on the day. And before the game, I have a muesli bar 🍽️"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Gym, Beach, Aldinga, Wohlers (work), Uni 🏋️‍♀️"
+        }
+      ]
+    },
+    {
+      "name": "Grace Humphries",
+      "sponsor": "RMA Packaging",
+      "instagram": "grace.humphriess 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "Studying Primary Teaching 🍎"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "Defence (GD,GK) 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "Eastern Eyre NC, Contax NC, Uraidla NC, Encounter Bay NC 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Sharni Layton inspired me when I was younger 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Moving from the country and being selected in the J1 team at Contax 🌟"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Skill development and making lifelong friends 🤝"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I love going to the beach, travelling and watching a good film 🎬"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "YoPro pouch 🥤"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Revo gym, yolk, coffee institute ☕️"
+        }
+      ]
+    },
+    {
+      "name": "Kasia Szymaniak",
+      "sponsor": "ADR Auto Electrics",
+      "instagram": "kasiaszymaniak_ 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "High school student 🎓"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GS and GA 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "Matrics 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Lucy Austin 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Playing in a Junior 1 Grand Final 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Making new connections, having fun and developing my skills 🤩"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Playing footy and watching the AFLW ⚽️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Chicken and sweet chilli bagel 🍗"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Physio, Goodlife, Woolworths, Cafes, Glenelg Beach 🏖️"
+        }
+      ]
+    },
+    {
+      "name": "Lara Mellow",
+      "sponsor": "No sponsor needed",
+      "instagram": "lara.mellow 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Student 🎓"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "WD/C/WA 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "Winter 2021 (I was 14) ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "To keep my head up both psychologically and physically 💪"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Lily Weckert 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "I admire dual sporting athletes like Ash Brazil 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "I don’t have many but a memorable moment was in 2020 when we were down at 3QT and came back to win by one ✨"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "I’m excited for meeting the new squad members and improving my game 🤩"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I play football, love to travel and go camping ⚽️🏕️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Usually a banana or apple 🍌🍎"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Drummond Driving Range (work), The Lakes (work), the grange, royal park goodlife, Henley and grange RSL 🏋️‍♀️"
+        }
+      ]
+    },
+    {
+      "name": "Lily Massey",
+      "sponsor": "Cornerstone Stud",
+      "instagram": "lilymasseyy_ 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Bachelor of Human Movement/Masters of Secondary Teaching 🎓"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "WA, WD, C 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "I joined Jets in Primary’s/2015 ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "No more long bombs 🚫"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Lily Weckert 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Kim Ravaillion has always inspired me 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning the Inter 1 Premiership by 1 point to Matrics after finishing 3rd on the ladder 🏆"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "I am excited to see what all the new faces can bring 🤩"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I enjoy going to the gym, beach and taking walks with friends 🏖️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I will always eat pasta the night before and a banana right before the game 🍝"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Joes Kiosk, The Local Canteen, PEAQ, West Lakes Physio, Seamores 🍽️"
+        }
+      ]
+    },
+    {
+      "name": "Lily Weckert",
+      "sponsor": "Historian & Goolwa Sand and Surf",
+      "instagram": "Lilyweckert 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Nursing 🏥"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "C WA 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "15 years old ⏰"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Chloe Britten 😂"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "New team seeing how we bond together and play as a team! 🤝"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Love everything beach involved 🏖️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I eat anything before a game 🍽️"
+        }
+      ]
+    },
+    {
+      "name": "Lily Zbierski",
+      "sponsor": "Massage Life",
+      "instagram": "Lily.zbierski_ 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "Baker/studying to be a pilates instructor 🍞"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GS, GA 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "Played for Garville 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "I also play basketball and Kobe Bryant I admire the most – I love his work ethic 🏀"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Probably scoring 42 out of 43 goals in a final 🎯"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Haven’t played netball for 5 years so just getting back into playing the sport 🔥"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Basketball & pilates 🤸‍♀️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Steak & eggs 🍳"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Beachside blends, Studio pilates, Semaphore nails, Derrimut gym, GYG 🏋️‍♀️"
+        }
+      ]
+    },
+    {
+      "name": "Mackenzie Rathjen",
+      "sponsor": "Deltapro",
+      "instagram": "kenzrathjen 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Medical Admin 💼"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GA, GS 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "2023 and I was 21 📆"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "That the one percent’s always matter! Always dig deep and keep going even when exhausted 💪"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Lily Weckert 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Growing up I always admired Erin Bell for her persistence and determination 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning a back to back premiership 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "To develop my game 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I love my music! I can play 5 instruments 🎵"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I eat a banana 🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Work, Physio, Beach, The River, Hairdressers 📍"
+        }
+      ]
+    },
+    {
+      "name": "Maddy Golding",
+      "sponsor": "Harcourts Adelaide Hills",
+      "instagram": "maddy_golding 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "I am going to be studying Nursing in my first year of uni (2025) 🏥"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GD, WD, GK 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "Oakdale NC 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Sharni Layton 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning my last premiership at SMAA with the girls I grew up playing with – full of fun and competitive spirit! 🏆"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "I am excited to get to know everyone 🤩"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I enjoy spending time with family and friends, cooking and baking 🍳"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Banana and a squeezy yoghurt 🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "STRONG pilates (Somerton Park), Feed Glenelg (Cafe), Bespoke Facial and Body Clinic, Yo-chi Glenelg, Oakberry Acai 🏋️‍♀️"
+        }
+      ]
+    },
+    {
+      "name": "Madison Hughes",
+      "sponsor": "No sponsor needed",
+      "instagram": "madi.hhughes 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "I'm a Disability Support Worker and studying a Cert III in Individual Support this year 🤝"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GD/WD/C 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "Age 16, 2022 ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Keep my feet on the ground when putting hands over and to not jump 👣"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Maeve 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Mum and Matilda Garrett 👩‍👧"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Playing school netball in year 10, which led me to choose netball over basketball 🎓"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "I'm excited to hopefully play more mid-court 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Anything crafty like sewing and crochet 🧵"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I always eat a banana right before the start of a game 🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Friends houses, Gym (Revo), North Adelaide Golf Course, Local park/oval, Beach 🏖️"
+        }
+      ]
+    },
+    {
+      "name": "Maeve Garnett",
+      "sponsor": "Rachel Hutton Design",
+      "instagram": "maeve.garnett 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "University Student 🎓"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GD, GK 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "16 years old ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Stop playing nice 😈"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Lily Weckert 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Cathy Freeman 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning a premiership at my local club with some of my good friends! 🏆"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Pushing myself and getting to know the new squad members! 💪"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I enjoy being active, like going for walks and occasional runs 🚶‍♀️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Banana and honey crumpet 🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Gym, Physio, Stirling hotel, Red cacao, Green Valley Café 🏋️‍♀️"
+        }
+      ]
+    },
+    {
+      "name": "Monet Lyle",
+      "sponsor": "Cornerstone Stud",
+      "instagram": "monetlyle_ 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Studying Bachelor of Primary School Teaching 🎓"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "C, WA 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "I was about 11 years old from memory ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "I can always hear Trudys voice from the sideline, yelling to continue through my drives! 📣"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Caitlin Ferguson 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "I was always inspired by Laura Langman 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Going away to Nationals to represent SA after Covid restrictions is still a highlight 🌟"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Being a part of a squad with many new faces and striving towards the same goals 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I love going to the beach and hanging out with family and friends 🌴"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Spaghetti Bolognese and/or Crumpets 🍝"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Peaq Conditioning (gym), Strong Pilates, Henley Beach 🏋️‍♀️"
+        }
+      ]
+    },
+    {
+      "name": "Monique Raidis",
+      "sponsor": "Merrett Logging",
+      "instagram": "moniqueraidis 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Support worker 💼"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "WA, C 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "2022 📆"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Make sure I’m not closed off holding on the ring, be on an angle 🔄"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Madi Hughes 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "My sisters ❤️"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning a school netball carnival in WA 🏆"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Just getting back onto the court 🔥"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Not really 🤷‍♀️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Banana 🍌"
+        }
+      ]
+    },
+    {
+      "name": "Poppy Neilson",
+      "sponsor": "Wavelength International",
+      "instagram": "poppyneilsonn 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Just finished school tbc! But currently working at Bakers Delight 🎓🍞"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GA, WA, GS 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "I joined Jets in 2023 📆"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "I always get told to be more aggressive and stand my ground 💥"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Maeve Garnett 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Hayley Raso 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning a back to back premiership with my old netball team 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Getting to know new people in the squad and boosting my fitness 💪"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I love surfing, even if I'm not the best 🏄‍♀️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Usually a protein smoothie or rice crackers with fruit 🥤"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Pilates, Gym, Cocos Hair & Day Spa, Bakers Delight, Yo-chi 📍"
+        }
+      ]
+    },
+    {
+      "name": "Rhianne Kaluza",
+      "sponsor": "No sponsor needed",
+      "instagram": "rhiannekaluza 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Registered Nurse 🩺"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "C, WD 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "8 years old ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Normally a big no as I pass a long bomb 🚫"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Lily Weckert 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "My mum was a huge inspiration growing up but a sports person would be Nat VonBertouch 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "My 200th club game and playing my 50th PL game with my bestie Chloe (besides the part where I broke my foot) 💔"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "My return to netball 🌟"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I love gym and camping 🏕️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I like routine and I’m superstitious. Thursday night is pasta night, game day I have weetbix for breakfast and always a nani with peanut butter and an energy drink before the game 🍝"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Peaq is a second home of mine, also love Dunes cafe ☕️"
+        }
+      ]
+    },
+    {
+      "name": "Samantha Low",
+      "sponsor": "Flush Plumbing",
+      "instagram": "sammmilow 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Teacher 🍎"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GA 🏐"
+        },
+        {
+          "question": "When did you join Jets? (How old were you or which year?)",
+          "answer": "2020 ⏰"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Trust yourself 💖"
+        },
+        {
+          "question": "Who is your funniest team mate?",
+          "answer": "Rhianne 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Maria Folau/ Kate Moloney 🏆"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Connecting with the squad, getting a few wins on the board 🏆"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Heading up the river for a wakeboard 🏄‍♀️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Coffee and a light snack ☕️"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Edessa, Flour Store, Coffee Factory, Drakes 🏠"
+        }
+      ]
+    },
+    {
+      "name": "Shelby Finlay",
+      "sponsor": "Price Attack",
+      "instagram": "shelbyfinlay 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Pilates Instructor/Studio Manager 🏋️‍♀️"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "WA & C 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "2023 was my first season! 📆"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Talk more on court, maintain defensive pressure & smile (resting bitch face) 😄"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Chloe or Weckert 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Natalie Von Bertouch – one of my favourite players growing up 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Debuting in Premier League and making great friends along the way 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "A fresh group of girls with new perspective and motivation! 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Pilates, gym, running & exploring new food spots 🍽️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Pasta the night before, plus a banana with oxyshred right before the game 🍝🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Gym, Pilates studio & my parents' shop Price Attack 🏪"
+        }
+      ]
+    },
+    {
+      "name": "Sophie Barker",
+      "sponsor": "No sponsor needed",
+      "instagram": "sophiebarker807 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "Early Learning 👩‍🏫"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "WA, C, WD 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "Junior 1 till now (2021-2025) 📆"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "Quick release with my pass; I see things before they happen ⚡"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Maeve 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Paige Bueckers 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Getting a scholarship for basketball in America at Williston State College 🎓"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Being competitive all year round 💪"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Basketball and water skiing 🏄‍♀️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "Protein yogurt or a banana 🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "YoChi, river, basketball courts, The Royal Hotel and Mia Margarita 📍"
+        }
+      ]
+    },
+    {
+      "name": "Taliya Kher",
+      "sponsor": "Flagstaff Hill Dental Care",
+      "instagram": "taliyakher 📸",
+      "questions": [
+        {
+          "question": "What is your occupation / study?",
+          "answer": "Just finished High school and hopefully occupational therapy next year 🎓"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GD, GK 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "Contax 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Shamera Sterling 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Playing with some of my best friends and winning our grand final in 2023 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Improving my defensive skills and making new connections at jets this year 💪"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "Touch football ⚽️"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "It changes each week, but I would love to eat açai bowls every week before the game 🥣"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "I LOVE YOCHI, sushi, catching up with friends for brunch, going to ah sai yee and going to the beach 🍣"
+        }
+      ]
+    },
+    {
+      "name": "Tayla Bevis",
+      "sponsor": "INTRO",
+      "instagram": "taylabevis 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "SSO 📚"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "GK and GD 🏐"
+        },
+        {
+          "question": "Where have you been playing netball prior to joining Jets?",
+          "answer": "At my local club South Gawler 🏫"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Renae Ingles 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Winning a Senior 1 premiership with my local club in 2022 🎉"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "Meeting new people and playing in a new environment 🌟"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I love to read and enjoy coffee with friends ☕"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "I don’t have anything specific I eat before a game 🍽️"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Cafe Sia, The Humble Sando, and The Kingsford Hotel 📍"
+        }
+      ]
+    },
+    {
+      "name": "Tiarhn Carpenter",
+      "sponsor": "Konzag Grains Haulage",
+      "instagram": "Tiarhn_carpenter 📸",
+      "questions": [
+        {
+          "question": "What is your occupation/study?",
+          "answer": "ESO and studying Bachelor of Primary Education 📚"
+        },
+        {
+          "question": "What position(s) do you play?",
+          "answer": "Everywhere, but mainly WD/GD 🏐"
+        },
+        {
+          "question": "When did you join Jets?",
+          "answer": "2024 📆"
+        },
+        {
+          "question": "What do your coaches tell you?",
+          "answer": "I always give 100% 💯"
+        },
+        {
+          "question": "Who is your funniest teammate?",
+          "answer": "Kenz 😂"
+        },
+        {
+          "question": "Who inspired you as a player or what sports person you most admire?",
+          "answer": "Geva Mentor 🏆"
+        },
+        {
+          "question": "Can you describe a memorable moment in your career or career highlight?",
+          "answer": "Getting BnF 2024 was an honour 🎖️"
+        },
+        {
+          "question": "What are you excited about for 2025?",
+          "answer": "All the new players and young group to develop and try new things 🚀"
+        },
+        {
+          "question": "Do you have any hobbies or interests outside of your sport?",
+          "answer": "I play tennis and love going to the river 🎾"
+        },
+        {
+          "question": "What do you eat before a game?",
+          "answer": "A home cooked meal from my pa if I’m lucky and a banana 🍌"
+        },
+        {
+          "question": "Name the 5 places you frequent most often?",
+          "answer": "Yochi, Fasta Pasta, Nail Salon, Hairdresser, Spec Savers 📍"
+        }
+      ]
+    }
+  ]
+}
