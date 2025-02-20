@@ -1,4 +1,4 @@
-fetch('./players.json')
+fetch('https://cdn.jsdelivr.net/gh/JuanCloud28/KEEK-CDN/Metrojets/players.json')
     .then(response => response.json())
     .then(data => {
         players = data.players;
