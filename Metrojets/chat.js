@@ -82,4 +82,28 @@ function handleSend() {
 
 document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('send-button').addEventListener('click', handleSend);
+    const chatWindow = document.getElementById("chat-window");
+
+    // Ocultar scrollbar visualmente
+    chatWindow.style.overflowY = "auto";
+    chatWindow.style.scrollbarWidth = "none"; // Firefox
+    chatWindow.style.msOverflowStyle = "none"; // IE/Edge
+    chatWindow.classList.add("hide-scroll");
+
+    const style = document.createElement("style");
+    style.innerHTML = `
+        #chat-window::-webkit-scrollbar {
+            display: none; /* Chrome, Safari */
+        }
+    `;
+    document.head.appendChild(style);
+
+    // Auto scroll hacia abajo cuando se agregan mensajes
+    const observer = new MutationObserver(() => {
+        chatWindow.scrollTo({
+            top: chatWindow.scrollHeight,
+            behavior: "smooth"
+        });
+    });
+    observer.observe(chatWindow, { childList: true });
 });
