@@ -2,53 +2,53 @@ fetch('https://cdn.jsdelivr.net/gh/JuanCloud28/KEEK-CDN/Metrojets/players.json')
     .then(response => response.json())
     .then(data => {
         players = data.players;
-        console.log(data); // Array de objetos JSON
+        console.log(data); // Array of JSON objects
     })
     .catch(error => console.error('Error fetching JSON:', error));
 
 
-let currentIndex = 0; // Controla el par actual de la conversación
+let currentIndex = 0; // Controls the current pair of the conversation
 let playerIndex = 0;
 let players = {};
 
 function openChatModal(playerIndexParam) {
-    // Inyecta o muestra el modal en el DOM
+    // Inject or show the modal in the DOM
     document.getElementById('chat-modal').style.display = 'block';
     document.getElementById('send-button').disabled = false;
     playerIndex = playerIndexParam;
 
-    // Reinicia la conversación y actualiza la pregunta, etc.
+    // Restart the chat
     currentIndex = 0;
     document.getElementById('chat-window').innerHTML = '';
     if (players[playerIndex].questions.length > 0) {
         document.getElementById('question-display').value = players[playerIndex].questions[currentIndex].question;
     }
 
-    // Asigna el event listener al botón "Enviar" en este momento, ya que ya está presente
+    // Assign the event listener to the "Send" button
     const sendButton = document.getElementById('send-button');
-    // Primero elimina cualquier listener previo para evitar duplicados
+    // First remove any previous listeners to avoid duplicates
     sendButton.removeEventListener('click', handleSend);
     sendButton.addEventListener('click', handleSend);
 }
 
-// Función para cerrar el modal
+// Function to close the modal
 function closeModal() {
     document.getElementById('chat-modal').style.display = 'none';
     document.getElementById('question-display').value = '';
 }
 
-// Función para agregar mensajes a la ventana del chat
+// Function to add messages to the chat window
 function appendMessage(text, sender) {
     const messageElement = document.createElement('div');
     messageElement.className = 'message ' + sender;
     messageElement.textContent = text;
     const chatWindow = document.getElementById('chat-window');
     chatWindow.appendChild(messageElement);
-    // Mantiene el scroll hacia abajo para ver el último mensaje
+    // Keep the scroll down to see the last message
     chatWindow.scrollTop = chatWindow.scrollHeight;
 }
 
-// Agrega la pregunta a la ventana del chat (simula que el usuario la envía)
+// Add the question to the chat window (simulate that the user sends it)
 
 function handleSend() {
     if (currentIndex >= players[playerIndex].questions.length) {
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('send-button').addEventListener('click', handleSend);
     const chatWindow = document.getElementById("chat-window");
 
-    // Ocultar scrollbar visualmente
+    // Hide the scrollbar visually
     chatWindow.style.overflowY = "auto";
     chatWindow.style.scrollbarWidth = "none"; // Firefox
     chatWindow.style.msOverflowStyle = "none"; // IE/Edge
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
     `;
     document.head.appendChild(style);
 
-    // Auto scroll hacia abajo cuando se agregan mensajes
+    // Auto scroll down when messages are added
     const observer = new MutationObserver(() => {
         chatWindow.scrollTo({
             top: chatWindow.scrollHeight,
